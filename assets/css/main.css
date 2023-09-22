@@ -387,6 +387,7 @@ input, select, textarea {
 
 		.row > .col-2 {
 			width: 16.66667%;
+			margin: 0px auto;
 		}
 
 		.row > .off-2 {
